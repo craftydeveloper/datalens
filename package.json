@@ -1,0 +1,11 @@
+{
+  "name": "datalens",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A local workspace for organizing datasets, metric definitions, and analysis notes with traceable sources.",
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate-static-app.mjs"
+  }
+}
