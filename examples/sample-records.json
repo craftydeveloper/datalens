@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "note": "Synthetic documentation examples; not loaded by the app.",
+  "records": [
+    {
+      "id": "data-1",
+      "title": "Synthetic monthly visits",
+      "source": "examples/visits.csv"
+    },
+    {
+      "id": "metric-1",
+      "title": "Conversion rate",
+      "unit": "percent",
+      "definition": "completed / visits"
+    }
+  ]
+}
